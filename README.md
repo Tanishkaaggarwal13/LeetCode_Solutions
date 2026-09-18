@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
