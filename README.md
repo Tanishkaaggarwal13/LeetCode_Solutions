@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0867-transpose-matrix](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Trie
 |  |
@@ -65,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Tanishkaaggarwal13/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
