@@ -34,4 +34,5 @@ class Solution {
         temp2.next=null;
 
         return newhead;
-    }}
+    }
+}
